@@ -1,0 +1,17 @@
+html {
+    scroll-behavior: smooth;
+}
+body {
+    font-family: cursive;
+}
+h3 , h2 {
+    font-weight: bolder;
+}
+.clr {
+    background-color: darkgray !important;
+}
+.col-xl-12 {
+    margin-bottom: 40px !important;
+    margin-left: 2px !important;
+    margin-right: 2px !important;
+}
